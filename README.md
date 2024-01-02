@@ -1,0 +1,2 @@
+# MeriSKILL_Diabetes_Prediction
+Diabetes Analysis
